@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BR.AS.HardwareTopology Version="0.0.0.1">
+  <Modules>
+    <Module Name="4PP065_0571_P74" Type="4PP065.0571-P74" X="224" Y="125" />
+    <Module Name="X20BB80" Type="X20BB80" X="466" Y="125" />
+    <Module Name="X20BM15" Type="X20BM15" X="504" Y="125" />
+    <Module Name="X20DI9371" Type="X20DI9371" X="504" Y="125" />
+    <Module Name="X20TB12a" Type="X20TB12" X="504" Y="152" />
+    <Module Name="X20BM11a" Type="X20BM11" X="517" Y="125" />
+    <Module Name="X20DO9322" Type="X20DO9322" X="517" Y="125" />
+    <Module Name="X20TB12d" Type="X20TB12" X="517" Y="152" />
+    <Module Name="X20BM15a" Type="X20BM15" X="530" Y="125" />
+    <Module Name="X20BT9100" Type="X20BT9100" X="530" Y="125" />
+    <Module Name="X20TB12f" Type="X20TB12" X="530" Y="152" />
+    <Module Name="X20PS9400" Type="X20PS9400" X="491" Y="125" />
+    <Module Name="X20TB12" Type="X20TB12" X="491" Y="152" />
+    <Module Name="X20BC0083" Type="X20BC0083" X="466" Y="125" />
+    <Module Name="8I64xxxxxxx.00x-1" Type="8I64xxxxxxx.00x-1" X="595" Y="135.5" />
+  </Modules>
+  <Links>
+    <Link From="4PP065_0571_P74" To="X20BC0083" FromPort="IF4" ToPort="PLK1" IsRoutedByUser="False">
+      <Point X="277.05" Y="230.5" />
+      <Point X="277.05" Y="230.5" />
+      <Point X="277.05" Y="235.5" />
+      <Point X="277.05" Y="245" />
+      <Point X="385" Y="245" />
+      <Point X="385" Y="200" />
+      <Point X="465" Y="200" />
+      <Point X="480" Y="200" />
+      <Point X="480" Y="200" />
+    </Link>
+    <Link From="X20BT9100" To="8I64xxxxxxx.00x-1" FromPort="X2X1" ToPort="X2X1" IsRoutedByUser="False">
+      <Point X="537" Y="169" />
+      <Point X="537" Y="169" />
+      <Point X="544" Y="169" />
+      <Point X="555" Y="169" />
+      <Point X="555" Y="245" />
+      <Point X="612" Y="245" />
+      <Point X="612" Y="235.5" />
+      <Point X="612" Y="229.5" />
+      <Point X="612" Y="229.5" />
+    </Link>
+  </Links>
+  <InfoElements />
+</BR.AS.HardwareTopology>

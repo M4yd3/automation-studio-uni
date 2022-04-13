@@ -1,0 +1,10 @@
+VAR
+	speed : INT := 0;
+	servo : DRIVE;
+	on_switch : BOOL;
+	increase_speed_btn : BOOL;
+	decrease_speed_btn : BOOL;
+	reset_btn : BOOL;
+	torque : INT;
+	error : BOOL := FALSE;
+END_VAR

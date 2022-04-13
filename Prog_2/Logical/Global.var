@@ -1,0 +1,10 @@
+VAR
+	VP_At_Entry : BOOL;
+	VP_At_Exit : BOOL;
+	VP_Buffer_Conveyor : BOOL;
+	VP_Entry_Conveyor : BOOL;
+	VP_Item_Ready : BOOL;
+	VP_Start_Button : BOOL;
+	VP_Stop_Button : BOOL;
+	VP_Dose_Button : BOOL;
+END_VAR

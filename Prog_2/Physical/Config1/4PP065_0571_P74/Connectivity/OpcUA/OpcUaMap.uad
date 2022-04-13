@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OpcUaSource FileVersion="4" ArVersion="D4.52">
+  <Aliases>
+    <ACLAliases />
+    <EURangeViolationAliases />
+    <EURangesAliases />
+    <EngineeringUnitAliases />
+  </Aliases>
+  <DefaultView>
+    <Module Name="&lt;Default&gt;">
+      <GlobalVariables Name="Global Variables">
+        <Variable Name="VP_At_Entry" />
+        <Variable Name="VP_At_Exit" />
+        <Variable Name="VP_Buffer_Conveyor" />
+        <Variable Name="VP_Entry_Conveyor" />
+        <Variable Name="VP_Item_Ready" />
+        <Variable Name="VP_Start_Button" />
+        <Variable Name="VP_Stop_Button" />
+        <Variable Name="VP_Dose_Button" />
+      </GlobalVariables>
+    </Module>
+  </DefaultView>
+</OpcUaSource>
