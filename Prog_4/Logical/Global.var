@@ -1,0 +1,7 @@
+VAR
+	LED : ARRAY[0..3] OF BOOL := [4(FALSE)];
+	BTN : ARRAY[0..3] OF BOOL;
+	blink : BOOL;
+	motor_speed : INT := 0;
+	real_motor_speed : INT;
+END_VAR

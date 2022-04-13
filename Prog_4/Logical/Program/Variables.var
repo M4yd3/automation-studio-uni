@@ -1,0 +1,3 @@
+VAR
+	blink_time : ARRAY[0..3] OF USINT;
+END_VAR

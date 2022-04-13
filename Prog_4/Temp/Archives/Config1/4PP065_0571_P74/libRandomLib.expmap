@@ -1,0 +1,8 @@
+{
+  global:
+    random;
+    rand_interval;
+    RandomValue;
+  local:
+    *;
+ };
