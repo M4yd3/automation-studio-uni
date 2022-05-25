@@ -1,0 +1,4 @@
+VAR
+	LED : ARRAY[0..3] OF BOOL := [3(1),0];
+	BTN : ARRAY[0..3] OF BOOL := [4(0)];
+END_VAR

@@ -1,0 +1,7 @@
+VAR
+	Led1 : BOOL;
+	Led2 : BOOL;
+	Led3 : BOOL;
+	Led4 : BOOL;
+	Counter : USINT;
+END_VAR

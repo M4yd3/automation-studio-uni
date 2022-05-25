@@ -1,0 +1,5 @@
+VAR_CONFIG
+	::Program:speed AT %QW."8I64xxxxxxx.00x-1".LFRD_Output;
+	::Program:servo.STATE AT %IW."8I64xxxxxxx.00x-1".ETAD_Input;
+	::Program:servo.COM AT %QW."8I64xxxxxxx.00x-1".CMDD_Output;
+END_VAR

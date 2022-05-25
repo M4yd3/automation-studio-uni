@@ -1,0 +1,6 @@
+VAR_CONFIG
+	::Program:LED[0] AT %QX."X20DO9322".DigitalOutput02;
+	::Program:LED[1] AT %QX."X20DO9322".DigitalOutput03;
+	::Program:LED[2] AT %QX."X20DO9322".DigitalOutput04;
+	::Program:LED[3] AT %QX."X20DO9322".DigitalOutput05;
+END_VAR

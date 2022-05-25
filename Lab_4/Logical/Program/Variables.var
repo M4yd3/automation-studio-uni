@@ -1,0 +1,4 @@
+VAR
+	EVIRD : DRIVE;
+	Counter : USINT;
+END_VAR

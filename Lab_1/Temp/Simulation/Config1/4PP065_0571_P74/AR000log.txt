@@ -1,0 +1,21 @@
+Wed May 25 03:07:34 2022
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Wed May 25 03:07:34 2022
+No ARsim registration found!
+
+Wed May 25 03:07:34 2022
+InstanceName: 01d86fcb6f338040
+
+Wed May 25 03:07:34 2022
+WorkingDirectory: D:\Documents\Projects\automation-studio-uni\Prog_1\Temp\Simulation\Config1\4PP065_0571_P74\
+
+Wed May 25 03:07:34 2022
+COMMAND_COLDSTART
+
+Wed May 25 03:07:36 2022
+Version: D4.52
+
+Wed May 25 04:02:41 2022
+COMMAND_TERMINATE
+
